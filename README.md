@@ -132,6 +132,8 @@ Foundation Models Based on Modality.
 
 ## Specialized Multi-Modal Models
 
+*RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control*: DeepMind, 2023 - [paper](https://arxiv.org/pdf/2307.15818)
+
 *Perceiver* DeepMind, 2021 - [Paper](https://arxiv.org/abs/2103.03206)
 
 
