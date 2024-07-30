@@ -9,6 +9,8 @@ Foundation Models Based on Modality.
 
 *SAM (Segment Anything Model)*: Meta AI, 2023 - [Paper](https://arxiv.org/pdf/2304.02643)
 
+*SAM 2*: Meta FAIR, 2024 - [paper](https://scontent-hou1-1.xx.fbcdn.net/v/t39.2365-6/453323338_287900751050452_6064535069828837026_n.pdf?_nc_cat=107&ccb=1-7&_nc_sid=3c67a6&_nc_ohc=TnvI-AaGawoQ7kNvgEOJCXb&_nc_ht=scontent-hou1-1.xx&oh=00_AYAi98_rkXI2UXDI3qN4a2ZrRPn9hzdxkyhXuJX5mBYkOQ&oe=66AECA39)
+
 *YOLO-NAS*: [code](https://github.com/Deci-AI/super-gradients/tree/master)
 
 *ByteTrack*: ByteDance 2022 - [paper](https://github.com/Deci-AI/super-gradients/tree/master)
