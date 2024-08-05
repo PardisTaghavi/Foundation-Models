@@ -128,6 +128,8 @@ Foundation Models Based on Modality.
 
 ## Video Captioning/understanding
 
+*PLLaVA*: 2024 - [Paper](https://arxiv.org/pdf/2404.16994)
+
 *Vid2Seq*: Google Research, 2023 - [Paper](https://arxiv.org/pdf/2302.14115)
 
 *InternVideo*: 2022 - [Paper](https://arxiv.org/pdf/2212.03191)
